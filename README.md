@@ -2,7 +2,7 @@
 
 Soy **Mateo**, ingeniero de software con conocimientos y experiencia desarrollando soluciones para empresas grandes y pequeñas. Me gusta aprender cosas nuevas cada día y resolver problemas mediante la programación.
 
-## 💻 Lenguajes de programación
+## 💻 Stack Tecnológico
 
 ### 🌍 Desarrollo Web y Backend
 
@@ -73,11 +73,6 @@ Soy **Mateo**, ingeniero de software con conocimientos y experiencia desarrollan
 
 ## 📊 Estadísticas
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=Fm4mdR03&show_icons=true&theme=vue&locale=es" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fm4mdR03&layout=compact&locale=es&theme=vue" />
-</a>
+![Fm4mdR03's GitHub stats](https://github-stats-extended.vercel.app/api?username=Fm4mdR03&show_icons=true&theme=vue&locale=es) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Fm4mdR03&layout=compact&locale=es&theme=vue)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
