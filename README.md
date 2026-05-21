@@ -80,7 +80,4 @@ Soy **Mateo**, ingeniero de software con conocimientos y experiencia desarrollan
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fm4mdR03&layout=compact&locale=es&theme=vue" />
 </a>
 
-![Snake animation](https://github.com/Fm4mdR03/Fm4mdR03/blob/output/github-contribution-grid-snake.svg)
-
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
